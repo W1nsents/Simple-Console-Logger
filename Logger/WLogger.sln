@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WLogger", "WLogger\WLogger.csproj", "{E90C28B8-DC02-45A6-8914-B5646980B3B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{8EB730A5-EC8F-4012-AF05-7AC237D82383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E90C28B8-DC02-45A6-8914-B5646980B3B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90C28B8-DC02-45A6-8914-B5646980B3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90C28B8-DC02-45A6-8914-B5646980B3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90C28B8-DC02-45A6-8914-B5646980B3B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB730A5-EC8F-4012-AF05-7AC237D82383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB730A5-EC8F-4012-AF05-7AC237D82383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB730A5-EC8F-4012-AF05-7AC237D82383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB730A5-EC8F-4012-AF05-7AC237D82383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF510DDB-F6EF-4828-A506-80F91ADF8740}
+	EndGlobalSection
+EndGlobal
